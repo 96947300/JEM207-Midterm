@@ -9,3 +9,5 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 pd.DataFrame({'number':[0,1],'name':['AB','BC']})
+
+print("hello")
